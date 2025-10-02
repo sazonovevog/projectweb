@@ -1,6 +1,6 @@
 interface StudentsInterface {
   id: number;
-  name: string;
+  last_name: string;
 };
 
 export default StudentsInterface;
